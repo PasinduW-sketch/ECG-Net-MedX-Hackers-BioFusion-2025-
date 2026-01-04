@@ -1,0 +1,2 @@
+# ECG-Net-Hybrid-CNN-BiLSTM-for-Automated-Arrhythmia-Classification-BioFusion---2025-
+ECG-Net by MedX Hackers: A deep learning model for automated arrhythmia classification. 🫀 Built with a hybrid 1D CNN-BiLSTM architecture and trained on the MIT-BIH dataset to provide real-time, accurate cardiac diagnostics. 🚀Developed by Team MedX Hackers for the 2025/2026 competition season to make cardiac monitoring faster and more accessible.
