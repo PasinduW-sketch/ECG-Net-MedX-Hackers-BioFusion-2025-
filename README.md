@@ -36,7 +36,7 @@ ECG-Net uses a hybrid approach to capture both the shape and the timing of heart
 ---
 
 ## 🤝 Team MedX Hackers
-* **Pasindu Harsha** - Project Lead
+* **Pasindu Harsha** 
 * **Navidu Atulugama**
 * **Sewmini Samarasinghe**
 * **Dinethma Hatharasinghe**
